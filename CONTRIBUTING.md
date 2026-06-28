@@ -1,6 +1,6 @@
-# Contributing to NextAPI
+# Contributing to NextAPI-TS
 
-First off, thank you for considering contributing to NextAPI! It's people like you that make open source such a great community.
+First off, thank you for considering contributing to NextAPI-TS! It's people like you that make open source such a great community.
 
 ## Development Setup
 
@@ -10,7 +10,7 @@ First off, thank you for considering contributing to NextAPI! It's people like y
 
 ## Testing Your Changes
 
-Before submitting a pull request, please make sure your changes pass all tests. 
+Before submitting a pull request, please make sure your changes pass all tests.
 
 Run the test suite with:
 
@@ -27,6 +27,7 @@ npm run test
 ## Reporting Bugs
 
 If you find a bug, please create an issue on GitHub with:
+
 - A clear description of the problem
 - Steps to reproduce
 - Your environment details (Node version, OS, etc.)

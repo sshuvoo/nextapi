@@ -1,3 +1,3 @@
 export function fn() {
-  return "Hello, nextapi!";
+  return "Hello, nextapi-ts!";
 }

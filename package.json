@@ -1,5 +1,5 @@
 {
-  "name": "nextapi",
+  "name": "nextapi-ts",
   "type": "module",
   "version": "0.0.0",
   "description": "A modern server-side backend framework extending Express.js, inspired by the intuitive design of Next.js API routes.",

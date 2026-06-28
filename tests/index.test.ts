@@ -1,6 +1,6 @@
-import { expect, test } from 'vitest'
-import { fn } from '../src'
+import { expect, test } from "vitest";
+import { fn } from "../src";
 
-test('fn', () => {
-  expect(fn()).toBe('Hello, nextapi!')
-})
+test("fn", () => {
+  expect(fn()).toBe('Hello, nextapi-ts!');
+});
